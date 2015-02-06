@@ -3,6 +3,11 @@ meteor-winston-mongodb
 
 1 liner to expose Winston + MongoDB transport, packaged for Meteor
 
+Install: 
+```Javascript
+    meteor add lfergon:winston-mongodb
+```
+
 Use:
 ```Javascript
     //Options object example for mongodb in localhost
