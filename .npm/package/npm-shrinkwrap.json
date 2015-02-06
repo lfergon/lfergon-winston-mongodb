@@ -1,0 +1,76 @@
+{
+  "dependencies": {
+    "winston": {
+      "version": "https://registry.coyno.com/winston/-/winston-0.9.0.tgz",
+      "dependencies": {
+        "async": {
+          "version": "https://registry.coyno.com/async/-/async-0.9.0.tgz"
+        },
+        "colors": {
+          "version": "https://hushhush.levinkeller.de:4873/colors/-/colors-1.0.3.tgz"
+        },
+        "cycle": {
+          "version": "https://hushhush.levinkeller.de:4873/cycle/-/cycle-1.0.3.tgz"
+        },
+        "eyes": {
+          "version": "https://hushhush.levinkeller.de:4873/eyes/-/eyes-0.1.8.tgz"
+        },
+        "isstream": {
+          "version": "https://hushhush.levinkeller.de:4873/isstream/-/isstream-0.1.1.tgz"
+        },
+        "pkginfo": {
+          "version": "https://hushhush.levinkeller.de:4873/pkginfo/-/pkginfo-0.3.0.tgz"
+        },
+        "stack-trace": {
+          "version": "https://hushhush.levinkeller.de:4873/stack-trace/-/stack-trace-0.0.9.tgz"
+        }
+      }
+    },
+    "winston-mongodb": {
+      "version": "https://registry.coyno.com/winston-mongodb/-/winston-mongodb-0.5.3.tgz",
+      "dependencies": {
+        "mongodb": {
+          "version": "https://registry.coyno.com/mongodb/-/mongodb-1.4.30.tgz",
+          "dependencies": {
+            "bson": {
+              "version": "https://registry.coyno.com/bson/-/bson-0.2.18.tgz",
+              "dependencies": {
+                "nan": {
+                  "version": "https://registry.coyno.com/nan/-/nan-1.5.1.tgz"
+                }
+              }
+            },
+            "kerberos": {
+              "version": "https://registry.coyno.com/kerberos/-/kerberos-0.0.8.tgz",
+              "dependencies": {
+                "nan": {
+                  "version": "https://registry.coyno.com/nan/-/nan-1.5.1.tgz"
+                }
+              }
+            },
+            "readable-stream": {
+              "version": "https://registry.coyno.com/readable-stream/-/readable-stream-1.0.33.tgz",
+              "dependencies": {
+                "core-util-is": {
+                  "version": "https://hushhush.levinkeller.de:4873/core-util-is/-/core-util-is-1.0.1.tgz"
+                },
+                "isarray": {
+                  "version": "https://registry.coyno.com/isarray/-/isarray-0.0.1.tgz"
+                },
+                "string_decoder": {
+                  "version": "https://hushhush.levinkeller.de:4873/string_decoder/-/string_decoder-0.10.31.tgz"
+                },
+                "inherits": {
+                  "version": "2.0.1"
+                }
+              }
+            }
+          }
+        },
+        "muri": {
+          "version": "https://registry.coyno.com/muri/-/muri-0.3.1.tgz"
+        }
+      }
+    }
+  }
+}
