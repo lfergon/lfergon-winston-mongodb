@@ -8,7 +8,7 @@ Use:
     //Options object example for mongodb in localhost
     var mongoOptions = {
       handleExceptions: true,
-      level: 'warn,
+      level: 'warn',
       host: 'localhost',
       db: 'meteor',
       port: 8081,
