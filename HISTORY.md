@@ -1,5 +1,7 @@
-TODO -> Done 06.02.2015
+TODO
+  1. Tests
 
+-> Done 06.02.2015
 ```Javascript
   You can access Meteor provided build machines, pre-configured to support older versions of MacOS and Linux, by running:
     meteor admin get-machine os.osx.x86_64
